@@ -6,7 +6,7 @@
 Surface Sampling Effect based on Threejs.  
 
 ## Run Online   
-[https://surface-sampling.netlify.app](https://surface-sampling.netlify.app) 
+[https://surface-sampling-effect.netlify.app](https://surface-sampling-effect.netlify.app) 
 
 ## Reference
 Tutorial https://tympanus.net/codrops/2021/08/31/surface-sampling-in-three-js/
@@ -18,4 +18,4 @@ This project is licensed under [![License: MIT](https://img.shields.io/badge/Lic
 * Email:[eric199002@icloud.com](eric199002@icloud.com)
 * Twitter:[https://twitter.com/nikoniko600](https://twitter.com/nikoniko600)
 * Repo:[https://github.com/Eric-Schecter/surface-sampling](https://github.com/Eric-Schecter/surface-sampling)
-* App:[https://surface-sampling.netlify.app](https://surface-sampling.netlify.app) 
+* App:[https://surface-sampling-effect.netlify.app](https://surface-sampling-effect.netlify.app) 
